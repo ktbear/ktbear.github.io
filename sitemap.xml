@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.ktbear.top/2020/04/12/APlayer%E9%9F%B3%E4%B9%90%E6%8F%92%E4%BB%B6/</loc>
+    <loc>http://www.ktbear.top/2020/04/02/springboot%E6%97%A5%E5%BF%97logback%E4%BB%8B%E7%BB%8D/</loc>
     
-    <lastmod>2020-04-12T06:01:47.055Z</lastmod>
+    <lastmod>2020-04-12T12:23:40.176Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.ktbear.top/2020/04/02/springboot%E5%85%A5%E9%97%A8/</loc>
+    
+    <lastmod>2020-04-12T12:23:16.213Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.ktbear.top/2020/04/09/%E6%90%AD%E5%BB%BAmybatis/</loc>
     
-    <lastmod>2020-04-09T08:49:29.578Z</lastmod>
+    <lastmod>2020-04-12T12:21:56.250Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.ktbear.top/2020/04/12/APlayer%E9%9F%B3%E4%B9%90%E6%8F%92%E4%BB%B6/</loc>
+    
+    <lastmod>2020-04-12T06:01:47.055Z</lastmod>
     
   </url>
   
@@ -26,20 +40,6 @@
     <loc>http://www.ktbear.top/about/index.html</loc>
     
     <lastmod>2020-04-05T07:24:35.950Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.ktbear.top/2020/04/02/springboot%E6%97%A5%E5%BF%97logback%E4%BB%8B%E7%BB%8D/</loc>
-    
-    <lastmod>2020-04-03T16:21:49.993Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.ktbear.top/2020/04/02/springboot%E5%85%A5%E9%97%A8/</loc>
-    
-    <lastmod>2020-04-03T16:17:50.232Z</lastmod>
     
   </url>
   
