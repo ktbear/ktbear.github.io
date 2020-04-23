@@ -1,3 +1,3 @@
-// build time:Wed Apr 22 2020 11:20:40 GMT+0800 (GMT+08:00)
-$("#a-down").click(function(){var o=$(window).scrollTop();$("html,body").animate({scrollTop:o+800},500)});$(document).scroll(function(){var o=$(window).scrollTop();if(o>200){$("#aplayer").fadeIn();$(".sidebar-toggle").fadeIn();$(".back-to-top").fadeIn()}else{$("#aplayer").fadeOut();$(".sidebar-toggle").fadeOut();$(".back-to-top").fadeOut()}});
+// build time:Thu Apr 23 2020 18:51:43 GMT+0800 (GMT+08:00)
+$("#a-down").click(function(){var e=$(window).scrollTop();$("html,body").animate({scrollTop:e+800},500)});$(document).scroll(function(){var e=$(window).scrollTop();if(e>200){$("#aplayer").fadeIn();$(".sidebar-toggle").fadeIn();$(".back-to-top").fadeIn();$(".eye").fadeIn()}else{$("#aplayer").fadeOut();$(".sidebar-toggle").fadeOut();$(".back-to-top").fadeOut();$(".eye").fadeOut()}});
 //rebuild by neat 
