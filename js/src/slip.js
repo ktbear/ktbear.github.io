@@ -1,3 +1,3 @@
-// build time:Wed May 06 2020 17:23:33 GMT+0800 (GMT+08:00)
+// build time:Fri May 08 2020 00:26:43 GMT+0800 (GMT+08:00)
 $("#a-down").click(function(){var e=$(window).scrollTop();$("html,body").animate({scrollTop:e+800},500)});$(document).scroll(function(){var e=$(window).scrollTop();if(e>200){$("#aplayer").fadeIn();$(".sidebar-toggle").fadeIn();$(".back-to-top").fadeIn();$(".eye").fadeIn()}else{$("#aplayer").fadeOut();$(".sidebar-toggle").fadeOut();$(".back-to-top").fadeOut();$(".eye").fadeOut()}});
 //rebuild by neat 
