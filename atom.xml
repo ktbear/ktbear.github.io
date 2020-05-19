@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.ktbear.top/"/>
-  <updated>2020-05-13T11:20:35.114Z</updated>
+  <updated>2020-05-19T03:48:38.496Z</updated>
   <id>https://www.ktbear.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>520福利</title>
+    <link href="https://www.ktbear.top/movie/19/"/>
+    <id>https://www.ktbear.top/movie/19/</id>
+    <published>2020-05-19T05:19:00.000Z</published>
+    <updated>2020-05-19T03:48:38.496Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><html><head></head><body><img class="st" src="https://i.loli.net/2020/05/19/GIPRHp6C9rXcyjf.png"><a id="more"></a> 520即将到来，在这里给大家推荐几款值得看电影，不约会的朋友们可以在家看看，绝对不迷路，祝你们度过一个愉快的520😂<ol><li><p>疯狂的麦克斯4：狂暴之路</p><p><img src="https://i.loli.net/2020/05/19/bDV8vLnAfjWRZi9.png" alt="QQ图片20200519105841sss.png"></p></li></ol><p>这款电影满满的科技感，场面十分爆棚。</p><ol start="2"><li><p>南山的部长们</p><p><img src="https://i.loli.net/2020/05/19/GY4ALEgHjSavxrB.png" alt="QQ图片20200519110007sssaa.png"></p></li></ol><p>这部电影主要将的是韩国中央情报部部长们的政治阴谋，你静静的看就会觉得很有意思😋</p><ol start="3"><li><p>巴霍巴利王：开端</p><p><img src="https://i.loli.net/2020/05/19/SnMldkctZAOTr27.png" alt="QQ图片20200519110630.png"></p></li></ol><p>印度神作，场面也是十分撼动，据说为了拍这部电影都动员了印度全人民，这部电影还有第二部，两部都不错的。</p><p>暂时只推荐这三部吧，最后再送给大家一个看电影的福利网站：<a href="http://www.mp4ju.com/" target="_blank" rel="noopener">http://www.mp4ju.com/</a></p><!-- rebuild by neat --><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script></body></html>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img class=&quot;st&quot; src=&quot;https://i.loli.net/2020/05/19/GIPRHp6C9rXcyjf.png&quot;&gt;
+    
+    </summary>
+    
+    
+      <category term="资源" scheme="https://www.ktbear.top/categories/%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="电影" scheme="https://www.ktbear.top/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+  </entry>
   
   <entry>
     <title>Ngrok内网穿透</title>
