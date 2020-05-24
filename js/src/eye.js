@@ -1,3 +1,3 @@
-// build time:Sat May 16 2020 11:23:03 GMT+0800 (GMT+08:00)
+// build time:Thu May 21 2020 10:31:38 GMT+0800 (GMT+08:00)
 function eye(){$(".eye .eye2").click(function(){$(".eye .eye1").slideToggle()});$(".eye ul li").click(function(){$(".eye .eye1").slideToggle();$color=$(this).css("background-color");console.log($color);$(".eye .eye1").css("background",$color);$("body").css("background",$color)});$("#yuanSe").click(function(){console.log("11111");$("body").css("background","#fffef8")})}eye();
 //rebuild by neat 

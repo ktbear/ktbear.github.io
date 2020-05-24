@@ -31,9 +31,67 @@
       </tags>
   </entry>
   <entry>
+    <title>阿里云Linux高危漏洞修复</title>
+    <url>/ali/21/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><html><head></head><body><img class="st" src="https://i.loli.net/2020/05/21/TiZyhsIBWMjOzwm.jpg"><a id="more"></a> 1. 描述<p>当我们购买阿里云服务器后，有时候会出现高危漏洞的情况，于是便点修复，接着就是让你开通云安全中心，各种购买，像我这种穷屌丝一个能不用钱解决的绝不用钱解决，当然有时候也是需要出一点钱的🤪</p><p><img src="https://i.loli.net/2020/05/18/wAHLRT9PV7UxeSB.png" alt="1589771146265.png"></p><ol start="2"><li><p>登录远程服务器</p><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment">#输入以下查看可升级的系统软件</span></span><br><span class="line">[root@dffdfsf ~]<span class="comment"># yum check-update</span></span><br></pre></td></tr></tbody></table></figure><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line"><span class="comment">#升级软件</span></span><br><span class="line">[root@dffdfsf ~]<span class="comment"># yum upgrade</span></span><br></pre></td></tr></tbody></table></figure><p>接着出现如下（有选择选择y即可）：</p><p><img src="https://i.loli.net/2020/05/18/gcdDuQnNCMIxh4R.png" alt="1589771460156.png"></p></li><li><p>等待升级完成进入阿里云控制台进行验证</p></li></ol><ul><li><p>点击ECS服务器实例</p><p><img src="https://i.loli.net/2020/05/18/ZxF9fsSGlXeoORV.png" alt="1589771865306.png"></p></li><li><p>然后点击实例id</p></li><li><p>查看安全状态</p><p><img src="https://i.loli.net/2020/05/18/q5hTZsY6J1IaMLD.png" alt="1589772038939.png"></p></li><li><p>点击后可以查看到漏洞，我们选择只查看高危漏洞，然后全选，在下方可以看到验证按钮，点击后等待几分钟</p><p><img src="https://i.loli.net/2020/05/18/rSLGY3QWdDcFEul.png" alt="1589772194782.png"></p></li></ul><ol start="4"><li>验证完成后重启云服务器，重启后再查看高危漏洞得以修复</li></ol><!-- rebuild by neat --><script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script></body></html>]]></content>
+      <categories>
+        <category>安全</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Git命令速查表</title>
+    <url>/git/21/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><html><head></head><body><p>平时常用Git命令大全……</p><a id="more"></a><p><img src="https://i.loli.net/2020/05/21/3wVeNk4a16tbmdi.png" alt="Git常用命令.png"></p><!-- rebuild by neat --><script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script></body></html>]]></content>
+      <categories>
+        <category>Git</category>
+      </categories>
+      <tags>
+        <tag>Git</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>520福利</title>
     <url>/movie/19/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><html><head></head><body><img class="st" src="https://i.loli.net/2020/05/19/GIPRHp6C9rXcyjf.png"><a id="more"></a> 520即将到来，在这里给大家推荐几款值得看电影，不约会的朋友们可以在家看看，绝对不迷路，祝你们度过一个愉快的520😂<ol><li><p>疯狂的麦克斯4：狂暴之路</p><p><img src="https://i.loli.net/2020/05/19/bDV8vLnAfjWRZi9.png" alt="QQ图片20200519105841sss.png"></p></li></ol><p>这款电影满满的科技感，场面十分爆棚。</p><ol start="2"><li><p>南山的部长们</p><p><img src="https://i.loli.net/2020/05/19/GY4ALEgHjSavxrB.png" alt="QQ图片20200519110007sssaa.png"></p></li></ol><p>这部电影主要将的是韩国中央情报部部长们的政治阴谋，你静静的看就会觉得很有意思😋</p><ol start="3"><li><p>巴霍巴利王：开端</p><p><img src="https://i.loli.net/2020/05/19/SnMldkctZAOTr27.png" alt="QQ图片20200519110630.png"></p></li></ol><p>印度神作，场面也是十分撼动，据说为了拍这部电影都动员了印度全人民，这部电影还有第二部，两部都不错的。</p><p>暂时只推荐这三部吧，最后再送给大家一个看电影的福利网站：<a href="http://www.mp4ju.com/" target="_blank" rel="noopener">http://www.mp4ju.com/</a></p><!-- rebuild by neat --><script>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><html><head></head><body><img class="st" src="https://i.loli.net/2020/05/21/KJZODlihsGd9gWT.png"><a id="more"></a> 520即将到来，在这里给大家推荐几款值得看电影，不约会的朋友们可以在家看看，绝对不迷路，祝你们度过一个愉快的520😂<ol><li><p>疯狂的麦克斯4：狂暴之路</p><p><img src="https://i.loli.net/2020/05/19/bDV8vLnAfjWRZi9.png" alt="QQ图片20200519105841sss.png"></p></li></ol><p>这款电影满满的科技感，场面十分爆棚。</p><ol start="2"><li><p>南山的部长们</p><p><img src="https://i.loli.net/2020/05/19/GY4ALEgHjSavxrB.png" alt="QQ图片20200519110007sssaa.png"></p></li></ol><p>这部电影主要将的是韩国中央情报部部长们的政治阴谋，你静静的看就会觉得很有意思😋</p><ol start="3"><li><p>巴霍巴利王：开端</p><p><img src="https://i.loli.net/2020/05/19/SnMldkctZAOTr27.png" alt="QQ图片20200519110630.png"></p></li></ol><p>印度神作，场面也是十分撼动，据说为了拍这部电影都动员了印度全人民，这部电影还有第二部，两部都不错的。</p><p>暂时只推荐这三部吧，最后再送给大家一个看电影的福利网站：<a href="http://www.mp4ju.com/" target="_blank" rel="noopener">http://www.mp4ju.com/</a></p><!-- rebuild by neat --><script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
             if (!el.dataset.src) { return; }
@@ -328,8 +386,8 @@
         <category>errorNote</category>
       </categories>
       <tags>
-        <tag>lombok</tag>
         <tag>java</tag>
+        <tag>lombok</tag>
       </tags>
   </entry>
   <entry>
